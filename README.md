@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Mohamed Aklamaash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;Full+Stack+Engineer;Distributed+Systems+Enthusiast;I+build+things+that+scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=600&lines=Backend+%26+Infrastructure+Engineer;Building+Developer+Platforms+%26+DevOps+Tools;Distributed+Systems+%7C+Cloud+Native+%7C+ML+Systems;Python+%7C+TypeScript+%7C+Go+%7C+Terraform;Turning+ideas+into+reliable+systems" />
 </p>
 
 <p align="center">
