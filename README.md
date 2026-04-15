@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Mohamed Aklamaash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=600&lines=Backend+%26+Infrastructure+Engineer;Building+Developer+Platforms+%26+DevOps+Tools;Distributed+Systems+%7C+Cloud+Native+%7C+ML+Systems;Python+%7C+TypeScript+%7C+Golang;Turning+ideas+into+reliable+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=600&lines=Backend+%26+Infrastructure+Engineer;Building+OSS+Tools;Distributed+Systems+%7C+ML+Systems;Python+%7C+TypeScript+%7C+Golang;Turning+ideas+into+reliable+systems" />
 </p>
 
 <p align="center">
@@ -16,11 +16,9 @@
 
 ## About Me
 
-- I enjoy building systems that scale and hold up in real-world scenarios  
-- I care about keeping architecture clean and code maintainable  
-- Recently, I’ve been exploring cloud-native and distributed systems  
-- I’m interested in using AI where it adds real value to products  
-- I play chess, which shapes how I think about trade-offs, edge cases, and long-term impact  
+- I enjoy building systems that scale and stay still under any circumstance
+- I care about keeping architecture clean and code maintainable
+- Recently, I’ve been exploring distributed systems and internals of llms
 
 ---
 
