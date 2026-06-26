@@ -54,5 +54,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAklamaash&show_icons=true&hide_border=true&theme=dark&title_color=D4A853&icon_color=D4A853&text_color=A09A8E&bg_color=0E0E0E" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=MohamedAklamaash&hide_border=true&background=0E0E0E&stroke=2A2A2A&ring=D4A853&fire=D4A853&currStreakNum=E8E4DC&currStreakLabel=D4A853&sideNums=E8E4DC&sideLabels=A09A8E&dates=8A8278&dayLabels=A09A8E&excludeDaysLabel=8A8278" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAklamaash&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&title_color=D4A853&icon_color=D4A853&text_color=A09A8E&bg_color=0E0E0E" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAklamaash&bg_color=0E0E0E&color=E8E4DC&line=D4A853&point=D4A853&area=true&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
 </p>
