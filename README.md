@@ -3,12 +3,15 @@
 <h1 align="center">Hi, I'm Mohamed Aklamaash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=600&lines=Backend+%26+ML+Engineer;Tinkering+OSS+Tools;Fault-Tolerant+%7C+ML+Systems;Python+%7C+TypeScript+%7C+Golang;Turning+ideas+into+reliable+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=620&lines=AI%2FML+%26+Software+Engineer;Backend+%C2%B7+ML+Systems+%C2%B7+Cloud;Training+language+models+from+scratch;Benchmarking+LLM+adversarial+robustness;Python+%7C+TypeScript+%7C+Go" />
 </p>
 
 <p align="center">
   <a href="https://aklamaash.me/">
     <img src="https://img.shields.io/badge/Portfolio-D4A853?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aklamaash/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -16,28 +19,40 @@
 
 ## About Me
 
-- I enjoy building systems that scale and stay still under any circumstance
-- I care about keeping architecture clean and code maintainable
-- Recently, I’ve been exploring distributed systems and internals of llms
+- 🛡️ Currently building **AI security** at **Unbound Security (YC S24)** — secrets/DLP detection, BYOC deploys on Amazon EKS, and production observability.
+- 🤖 I build and study **ML systems** — training language models from scratch, benchmarking LLM adversarial robustness, and the backend & cloud infrastructure that ships them.
+- 🎓 Integrated **M.Sc. Data Science** at **PSG College of Technology** (expected 2027).
+- 💬 Open to **AI/ML** and **backend / SRE** roles.
+
+---
+
+## Featured Work
+
+| Project | What it is |
+|---|---|
+| [**redharness**](https://github.com/MohamedAklamaash/redharness) | Standardized, reproducible benchmark for LLM adversarial robustness — jailbreak, prompt-injection & data-leakage under one methodology. · [PyPI](https://pypi.org/project/redharness/) |
+| [**nanocoder-math**](https://github.com/MohamedAklamaash/nanocoder-math) | A decoder-only GPT trained from scratch for code & math under single-device compute, with controlled ablations. |
+| [**RAMPART**](https://github.com/MohamedAklamaash/RAMPART) | Regime-aware multi-agent RL portfolio allocation — built evaluation-first with purged walk-forward backtests. |
+| [**launchpad**](https://github.com/MohamedAklamaash/launchpad) | Self-hosted PaaS that deploys apps from source into your own AWS account via Terraform. |
+| [**syncset-db**](https://github.com/MohamedAklamaash/syncset) | Selective PostgreSQL replication with schema-drift detection & crash-safe sync. · [PyPI](https://pypi.org/project/syncset-db/) |
+| [**codegraph**](https://github.com/MohamedAklamaash/codegraph) | Turn any GitHub repo into an interactive code knowledge graph with semantic search. |
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,go" />
+  <img src="https://skillicons.dev/icons?i=python,ts,go,cpp" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nestjs,react,nextjs" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,postgres,mongodb,nginx,linux,git" />
+  <img src="https://skillicons.dev/icons?i=pytorch,postgres,mongodb,redis,rabbitmq" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,nginx,linux,git" />
 </p>
 
 ---
 
-## How I Approach Engineering
-
-```text
-- Build with scale and reliability in mind
-- Prefer simple, clear solutions over clever ones
-- Think in terms of systems, not isolated pieces
-- Expect failures and design for them
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAklamaash&show_icons=true&hide_border=true&theme=dark&title_color=D4A853&icon_color=D4A853&text_color=A09A8E&bg_color=0E0E0E" height="165"/>
+</p>
