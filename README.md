@@ -19,10 +19,9 @@
 
 ## About Me
 
-- 🛡️ Currently building **AI security** at **Unbound Security (YC S24)** — secrets/DLP detection, BYOC deploys on Amazon EKS, and production observability.
 - 🤖 I build and study **ML systems** — training language models from scratch, benchmarking LLM adversarial robustness, and the backend & cloud infrastructure that ships them.
 - 🎓 Integrated **M.Sc. Data Science** at **PSG College of Technology** (expected 2027).
-- 💬 Open to **AI/ML** and **backend / SRE** roles.
+- 💬 Open to **backend / SRE** and **AI/ML** roles.
 
 ---
 
