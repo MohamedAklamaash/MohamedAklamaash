@@ -29,12 +29,12 @@
 
 | Project | What it is |
 |---|---|
+| [**launchpad**](https://github.com/MohamedAklamaash/launchpad) | Self-hosted PaaS that deploys apps from source into your own AWS account via Terraform. |
 | [**redharness**](https://github.com/MohamedAklamaash/redharness) | Standardized, reproducible benchmark for LLM adversarial robustness — jailbreak, prompt-injection & data-leakage under one methodology. · [PyPI](https://pypi.org/project/redharness/) |
 | [**nanocoder-math**](https://github.com/MohamedAklamaash/nanocoder-math) | A decoder-only GPT trained from scratch for code & math under single-device compute, with controlled ablations. |
-| [**RAMPART**](https://github.com/MohamedAklamaash/RAMPART) | Regime-aware multi-agent RL portfolio allocation — built evaluation-first with purged walk-forward backtests. |
-| [**launchpad**](https://github.com/MohamedAklamaash/launchpad) | Self-hosted PaaS that deploys apps from source into your own AWS account via Terraform. |
-| [**syncset-db**](https://github.com/MohamedAklamaash/syncset) | Selective PostgreSQL replication with schema-drift detection & crash-safe sync. · [PyPI](https://pypi.org/project/syncset-db/) |
 | [**codegraph**](https://github.com/MohamedAklamaash/codegraph) | Turn any GitHub repo into an interactive code knowledge graph with semantic search. |
+| [**RAMPART**](https://github.com/MohamedAklamaash/RAMPART) | Regime-aware multi-agent RL portfolio allocation — built evaluation-first with purged walk-forward backtests. |
+| [**syncset-db**](https://github.com/MohamedAklamaash/syncset) | Selective PostgreSQL replication with schema-drift detection & crash-safe sync. · [PyPI](https://pypi.org/project/syncset-db/) |
 
 ---
 
